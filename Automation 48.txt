@@ -13,3 +13,4 @@ Database usage. ...
 Multiple languages and libraries.
 
 Web Content Accessibility Guidelines
+Hiding last seen changes
